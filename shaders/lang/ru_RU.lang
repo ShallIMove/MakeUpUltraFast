@@ -272,8 +272,8 @@ screen.AO_SCREEN.comment=Настройки окклюзии окружения.
 screen.WATER_SCREEN=Вода
 screen.WATER_SCREEN.comment=Настройки воды.
 
-screen.POST_SCREEN=Пост-обработка
-screen.POST_SCREEN.comment=Настройки пост-обработки.
+screen.POST_SCREEN=Постобработка
+screen.POST_SCREEN.comment=Настройки постобработки.
 
 screen.LIGHT_SCREEN=Свет
 screen.LIGHT_SCREEN.comment=Настройки света.
