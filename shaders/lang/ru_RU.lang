@@ -92,10 +92,6 @@ option.REFRACTION=Преломление
 value.REFRACTION.0=Выкл
 value.REFRACTION.1=Вкл
 
-option.SSR_TYPE=Тип отражения
-value.SSR_TYPE.0=Отзеркаленный
-value.SSR_TYPE.1=Объёмный
-
 option.SUN_REFLECTION=Отражения солнца и луны
 value.SUN_REFLECTION.0=Выкл
 value.SUN_REFLECTION.1=Вкл
